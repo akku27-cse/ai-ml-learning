@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+python-multipart
+pymongo
+motor  # Async MongoDB driver
+transformers
+torch
+sentence-transformers
+nltk
+numpy
+python-dotenv

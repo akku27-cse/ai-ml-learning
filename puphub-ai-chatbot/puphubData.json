@@ -1,0 +1,147 @@
+[
+  {
+    "question": "What is PupHub?",
+    "think": "The user is asking about the basic function of the app. I should explain what it does and who it's for.",
+    "response": "PupHub is a mobile app designed for pet lovers. It helps users connect with other pet owners, share stories, find services, and care for their pets more efficiently."
+  },
+  {
+    "question": "Is PupHub free to use?",
+    "think": "I need to confirm the pricing model of the app. It's important to highlight if it's fully free or has paid options.",
+    "response": "Yes, PupHub is completely free to use. Users can enjoy all its core features without any cost."
+  },
+  {
+    "question": "What features does PupHub offer?",
+    "think": "The user wants a list or summary of app features. I should list major capabilities in a clear way.",
+    "response": "PupHub offers features like a pet community chat, blog sharing, pet care tips, access to local pet services, and real-time pet news."
+  },
+  {
+    "question": "Does PupHub support all types of pets?",
+    "think": "I should clarify the primary pet types supported and note if others are included.",
+    "response": "Yes, while the app is primarily focused on dogs and cats, it supports all types of pets including birds, fish, and small mammals."
+  },
+  {
+    "question": "Can I find nearby pet services using PupHub?",
+    "think": "The user is asking about local service discovery. I should mention location-based search.",
+    "response": "Absolutely. PupHub allows you to find nearby pet clinics, groomers, and pet-friendly places using your location or PIN code."
+  },
+  {
+    "question": "Can I search pet services by pin code in PupHub?",
+    "think": "They want to find services in a specific area using postal codes. I should explain that PIN search is supported.",
+    "response": "Yes, PupHub lets you search for pet services by entering your area PIN code for accurate local results."
+  },
+  {
+    "question": "Can I share pet blogs using PupHub?",
+    "think": "They’re asking about content creation. I should mention the blog posting feature.",
+    "response": "Yes, you can share informative or personal pet blogs directly within PupHub’s community section."
+  },
+  {
+    "question": "Can I share pet stories on PupHub?",
+    "think": "They want to post personal pet experiences. I should explain the story-sharing feature.",
+    "response": "Absolutely! PupHub allows you to post and share your pet's stories and milestones with the community."
+  },
+  {
+    "question": "Can I chat with other pet owners on PupHub?",
+    "think": "They’re asking about social interaction. I should confirm the chat feature.",
+    "response": "Yes, PupHub includes a chat feature that lets you connect and communicate with other pet owners easily."
+  },
+  {
+    "question": "Can I search and chat with pet owners by their name?",
+    "think": "They want to find a specific person. I should explain the user search and private chat feature.",
+    "response": "Yes, you can search for pet owners by name and initiate chats directly through PupHub’s user interface."
+  },
+  {
+    "question": "Can users send images in PupHub chat?",
+    "think": "They’re asking about media support in messaging. I should confirm image sharing.",
+    "response": "Yes, PupHub allows users to send images and media while chatting, making communication more expressive."
+  },
+  {
+    "question": "How can I contact the PupHub support team?",
+    "think": "They want customer support info. I should provide phone, email, and address.",
+    "response": "You can contact us via Phone: +91 8918080399 or Email: apexiumtechnologies@gmail.com. Visit us at: 1ST FLOOR BE 125, AA-1, ST.NO.-163&174, New Town, Kolkata, West Bengal, Pin-700156."
+  },
+  {
+    "question": "Where is PupHub located?",
+    "think": "They’re asking for the company's physical address. I should provide it clearly.",
+    "response": "PupHub’s headquarters is located at: 1ST FLOOR BE 125, AA-1, ST.NO.-163&174, New Town, Kolkata, West Bengal, Pin-700156."
+  },
+  {
+    "question": "How do I follow PupHub online?",
+    "think": "They want to follow PupHub on social media. I should prompt about social channels.",
+    "response": "You can follow PupHub on major social platforms. Check the app footer or official website for links to Instagram, Facebook, and Twitter."
+  },
+  {
+    "question": "Can I track my pet’s health records on PupHub?",
+    "think": "The user wants to know if the app includes pet health tracking features.",
+    "response": "Yes, PupHub allows you to maintain and track your pet’s vaccination schedules, vet visits, and health records."
+  },
+  {
+    "question": "Does PupHub have a lost & found pet feature?",
+    "think": "The user is asking about a missing pet alert system.",
+    "response": "Yes, PupHub has a lost & found section where users can report missing pets or help reunite lost pets with their owners."
+  },
+  {
+    "question": "Can I set reminders for pet care tasks in PupHub?",
+    "think": "They want to know if the app has scheduling features for pet care.",
+    "response": "Absolutely! PupHub lets you set reminders for feeding times, vet appointments, grooming sessions, and more."
+  },
+  {
+    "question": "Is there an event feature for pet meetups in PupHub?",
+    "think": "The user is asking about community events and pet-friendly gatherings.",
+    "response": "Yes, PupHub allows users to create and join pet-friendly events, meetups, and adoption drives in their area."
+  },
+  {
+    "question": "Does PupHub offer pet adoption services?",
+    "think": "They want to know if the app helps in pet adoption.",
+    "response": "Yes, PupHub partners with shelters and rescue organizations to help users find pets for adoption."
+  },
+  {
+    "question": "Can I review pet services on PupHub?",
+    "think": "They’re asking about rating and reviewing pet clinics, groomers, etc.",
+    "response": "Yes, PupHub allows users to rate and review pet services to help others make informed decisions."
+  },
+  {
+    "question": "Is PupHub available for both Android and iOS?",
+    "think": "The user wants to know device compatibility.",
+    "response": "Yes, PupHub is available for download on both Android (Google Play Store) and iOS (Apple App Store)."
+  },
+  {
+    "question": "Can I create a profile for my pet on PupHub?",
+    "think": "They want to know if they can personalize pet profiles.",
+    "response": "Yes, you can create detailed profiles for your pets, including photos, breed, age, and special needs."
+  },
+  {
+    "question": "Does PupHub provide emergency vet contacts?",
+    "think": "They’re asking about emergency pet care assistance.",
+    "response": "Yes, PupHub provides a list of 24/7 emergency vet clinics and helpline numbers for urgent pet care."
+  },
+  {
+    "question": "Can I sell pet products on PupHub?",
+    "think": "They want to know if the app supports pet-related commerce.",
+    "response": "Currently, PupHub focuses on community and services, but we may introduce a marketplace in the future."
+  },
+  {
+    "question": "How do I report inappropriate content on PupHub?",
+    "think": "They want to know about content moderation and reporting.",
+    "response": "You can report inappropriate posts or users by using the 'Report' button within the app. Our team reviews reports promptly."
+  },
+  {
+    "question": "Does PupHub offer pet training tips?",
+    "think": "They’re asking about educational resources for pet training.",
+    "response": "Yes, PupHub provides expert-approved training guides, videos, and tips for dogs, cats, and other pets."
+  },
+  {
+    "question": "Can I use PupHub without creating an account?",
+    "think": "They want to know if guest access is available.",
+    "response": "Some features like browsing services are available, but full access (chat, posts, reminders) requires a free account."
+  },
+  {
+    "question": "Does PupHub support multiple pet profiles per user?",
+    "think": "They want to know if they can add more than one pet.",
+    "response": "Yes, you can create and manage multiple pet profiles under a single PupHub account."
+  },
+  {
+    "question": "Is PupHub available in multiple languages?",
+    "think": "They’re asking about language support.",
+    "response": "Currently, PupHub supports English, but we plan to add more languages soon."
+  }
+] 
